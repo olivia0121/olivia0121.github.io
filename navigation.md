@@ -4,6 +4,8 @@
 
 [CONTENTS](navigation.md)
 
+[李笑来写作课](李笑来写作课.md)
+
 [MATHEMATICS]()
 
 * [Stein's Method](math/stein_method.md)
