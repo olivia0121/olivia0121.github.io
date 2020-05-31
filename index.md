@@ -1,11 +1,10 @@
-# About
+# Hello，world！
 
-Welcome to visit my online notebook! 
+Welcome to my little secret garden…
 
-I'd like to share with you three important notes that, in my own viewpoint, reveal all the secrets behind in English.
+This site is just a framework I borrowed from my teacher Long by now, so you can see that most of the contents are not written by me. However, if there is a chance, I will make this site a better place for you to visit.  Just wait with a little bit patience ^_^
 
-1. [A Though on English](english/a_thought_on_english.md)
-2. [Phonetic Phonics](english/phonetic_phonics.md)
-3. [Grim's Law](english/grimms_law.md)
+The following is my only original work by now:
+[管理学研究工具-15周作业](李笑来写作课.md)
 
-Hope you enjoy them! 
+Have a good day!!!

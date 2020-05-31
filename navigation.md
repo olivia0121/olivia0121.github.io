@@ -1,4 +1,4 @@
-# NOTEBOOK
+# OPEN SECRET
 
 <!-- [About](about.md) -->
 
